@@ -19,7 +19,7 @@
     "date-fns": "^4.1.0",
     "framer-motion": "^12.23.25",
     "lucide-react": "^0.556.0",
-    "next": "14.2.33",
+    "next": "16.0.7",
     "papaparse": "^5.5.3",
     "postcss": "8.4.49",
     "react": "18.3.1",
